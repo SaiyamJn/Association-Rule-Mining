@@ -34,3 +34,4 @@ Simulated transactional data with 26 items across varying volumes:
 
 ## 📄 License
 This repository is part of a research paper. For reuse or citation, please refer to the accompanying publication.
+If you use this codebase in your work, please cite or credit the original repository.
