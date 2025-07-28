@@ -33,5 +33,5 @@ Simulated transactional data with 26 items across varying volumes:
 - Average confidence
 
 ## 📄 License
-This repository is part of a research paper. For reuse or citation, please refer to the accompanying publication.
-If you use this codebase in your work, please cite or credit the original repository.
+- Code: Licensed under the [MIT License](./LICENSE).
+- Research Outputs: All documentation, visualizations, graphs, and written content are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
