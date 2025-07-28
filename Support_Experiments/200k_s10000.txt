@@ -1,0 +1,1008 @@
+
+L1 (Frequent 1-itemsets):
+{'A'}: 57892
+{'B'}: 57594
+{'C'}: 58138
+{'D'}: 57654
+{'E'}: 57768
+{'F'}: 57796
+{'G'}: 57609
+{'H'}: 57564
+{'I'}: 57599
+{'J'}: 57686
+{'K'}: 57916
+{'L'}: 57521
+{'M'}: 57765
+{'N'}: 57933
+{'O'}: 58082
+{'P'}: 57741
+{'Q'}: 58002
+{'R'}: 57956
+{'S'}: 57740
+{'T'}: 57826
+{'U'}: 57901
+{'V'}: 57986
+{'W'}: 57570
+{'X'}: 57524
+{'Y'}: 57676
+{'Z'}: 57587
+
+L2 (Frequent 2-itemsets):
+{'B', 'A'}: 18666
+{'C', 'A'}: 18791
+{'D', 'A'}: 18807
+{'E', 'A'}: 18693
+{'F', 'A'}: 18774
+{'G', 'A'}: 18745
+{'A', 'H'}: 18550
+{'I', 'A'}: 18747
+{'A', 'J'}: 18644
+{'K', 'A'}: 18935
+{'L', 'A'}: 18696
+{'M', 'A'}: 18605
+{'A', 'N'}: 18692
+{'A', 'O'}: 18952
+{'P', 'A'}: 18790
+{'Q', 'A'}: 18624
+{'R', 'A'}: 18868
+{'S', 'A'}: 18733
+{'A', 'T'}: 18833
+{'U', 'A'}: 18796
+{'V', 'A'}: 18878
+{'A', 'W'}: 18683
+{'X', 'A'}: 18816
+{'Y', 'A'}: 18794
+{'Z', 'A'}: 18810
+{'C', 'B'}: 18927
+{'D', 'B'}: 18693
+{'B', 'E'}: 18597
+{'B', 'F'}: 18735
+{'G', 'B'}: 18352
+{'B', 'H'}: 18624
+{'I', 'B'}: 18605
+{'B', 'J'}: 18635
+{'K', 'B'}: 18616
+{'L', 'B'}: 18664
+{'M', 'B'}: 18710
+{'B', 'N'}: 18712
+{'B', 'O'}: 18781
+{'P', 'B'}: 18831
+{'Q', 'B'}: 18697
+{'B', 'R'}: 18635
+{'S', 'B'}: 18510
+{'B', 'T'}: 18726
+{'U', 'B'}: 18527
+{'V', 'B'}: 18800
+{'B', 'W'}: 18508
+{'X', 'B'}: 18640
+{'B', 'Y'}: 18491
+{'Z', 'B'}: 18641
+{'D', 'C'}: 18944
+{'C', 'E'}: 18853
+{'C', 'F'}: 18739
+{'G', 'C'}: 18710
+{'C', 'H'}: 18855
+{'I', 'C'}: 18490
+{'C', 'J'}: 19011
+{'K', 'C'}: 18901
+{'L', 'C'}: 18699
+{'M', 'C'}: 18832
+{'C', 'N'}: 18882
+{'C', 'O'}: 19011
+{'P', 'C'}: 18867
+{'Q', 'C'}: 18967
+{'C', 'R'}: 18830
+{'S', 'C'}: 18793
+{'C', 'T'}: 18822
+{'U', 'C'}: 18884
+{'V', 'C'}: 18881
+{'C', 'W'}: 18740
+{'X', 'C'}: 18746
+{'C', 'Y'}: 18729
+{'Z', 'C'}: 18745
+{'D', 'E'}: 18659
+{'D', 'F'}: 18610
+{'D', 'G'}: 18524
+{'D', 'H'}: 18462
+{'I', 'D'}: 18587
+{'D', 'J'}: 18612
+{'K', 'D'}: 18679
+{'L', 'D'}: 18704
+{'M', 'D'}: 18705
+{'D', 'N'}: 18646
+{'D', 'O'}: 18715
+{'P', 'D'}: 18865
+{'Q', 'D'}: 18729
+{'D', 'R'}: 18776
+{'D', 'S'}: 18548
+{'D', 'T'}: 18824
+{'U', 'D'}: 18592
+{'D', 'V'}: 18836
+{'D', 'W'}: 18713
+{'X', 'D'}: 18586
+{'D', 'Y'}: 18739
+{'Z', 'D'}: 18407
+{'F', 'E'}: 18694
+{'G', 'E'}: 18646
+{'E', 'H'}: 18736
+{'I', 'E'}: 18756
+{'E', 'J'}: 18849
+{'K', 'E'}: 18727
+{'L', 'E'}: 18556
+{'M', 'E'}: 18801
+{'E', 'N'}: 18821
+{'E', 'O'}: 18812
+{'P', 'E'}: 18790
+{'Q', 'E'}: 18724
+{'E', 'R'}: 18714
+{'S', 'E'}: 18656
+{'E', 'T'}: 18748
+{'U', 'E'}: 18746
+{'V', 'E'}: 18821
+{'E', 'W'}: 18572
+{'X', 'E'}: 18514
+{'Y', 'E'}: 18648
+{'Z', 'E'}: 18618
+{'G', 'F'}: 18609
+{'F', 'H'}: 18439
+{'I', 'F'}: 18631
+{'F', 'J'}: 18652
+{'K', 'F'}: 18860
+{'L', 'F'}: 18626
+{'M', 'F'}: 18810
+{'F', 'N'}: 18757
+{'F', 'O'}: 18959
+{'P', 'F'}: 18576
+{'Q', 'F'}: 18829
+{'F', 'R'}: 18622
+{'S', 'F'}: 18746
+{'F', 'T'}: 18887
+{'U', 'F'}: 18727
+{'V', 'F'}: 18775
+{'F', 'W'}: 18736
+{'X', 'F'}: 18837
+{'Y', 'F'}: 18604
+{'Z', 'F'}: 18600
+{'G', 'H'}: 18555
+{'I', 'G'}: 18519
+{'G', 'J'}: 18683
+{'K', 'G'}: 18716
+{'L', 'G'}: 18430
+{'M', 'G'}: 18692
+{'G', 'N'}: 18748
+{'G', 'O'}: 18789
+{'P', 'G'}: 18632
+{'Q', 'G'}: 18766
+{'G', 'R'}: 18359
+{'G', 'S'}: 18546
+{'G', 'T'}: 18654
+{'U', 'G'}: 18707
+{'G', 'V'}: 18773
+{'G', 'W'}: 18473
+{'X', 'G'}: 18640
+{'G', 'Y'}: 18698
+{'Z', 'G'}: 18612
+{'I', 'H'}: 18427
+{'H', 'J'}: 18732
+{'K', 'H'}: 18680
+{'L', 'H'}: 18639
+{'M', 'H'}: 18647
+{'H', 'N'}: 18707
+{'H', 'O'}: 18839
+{'P', 'H'}: 18691
+{'Q', 'H'}: 18704
+{'R', 'H'}: 18509
+{'S', 'H'}: 18717
+{'T', 'H'}: 18749
+{'U', 'H'}: 18671
+{'V', 'H'}: 18668
+{'H', 'W'}: 18692
+{'X', 'H'}: 18560
+{'Y', 'H'}: 18817
+{'Z', 'H'}: 18547
+{'I', 'J'}: 18735
+{'I', 'K'}: 18768
+{'I', 'L'}: 18485
+{'I', 'M'}: 18723
+{'I', 'N'}: 18765
+{'I', 'O'}: 18772
+{'I', 'P'}: 18639
+{'Q', 'I'}: 18695
+{'I', 'R'}: 18675
+{'I', 'S'}: 18604
+{'I', 'T'}: 18557
+{'I', 'U'}: 18715
+{'I', 'V'}: 18658
+{'I', 'W'}: 18543
+{'X', 'I'}: 18557
+{'I', 'Y'}: 18618
+{'I', 'Z'}: 18638
+{'K', 'J'}: 18804
+{'L', 'J'}: 18543
+{'M', 'J'}: 18723
+{'N', 'J'}: 18712
+{'O', 'J'}: 18801
+{'P', 'J'}: 18710
+{'Q', 'J'}: 18737
+{'R', 'J'}: 18725
+{'S', 'J'}: 18646
+{'T', 'J'}: 18650
+{'U', 'J'}: 18676
+{'V', 'J'}: 18747
+{'W', 'J'}: 18546
+{'X', 'J'}: 18576
+{'Y', 'J'}: 18913
+{'Z', 'J'}: 18668
+{'K', 'L'}: 18721
+{'K', 'M'}: 18689
+{'K', 'N'}: 18745
+{'K', 'O'}: 18767
+{'K', 'P'}: 18819
+{'Q', 'K'}: 18786
+{'K', 'R'}: 18809
+{'K', 'S'}: 18708
+{'K', 'T'}: 18820
+{'K', 'U'}: 18831
+{'K', 'V'}: 18772
+{'K', 'W'}: 18761
+{'X', 'K'}: 18659
+{'K', 'Y'}: 18876
+{'K', 'Z'}: 18665
+{'M', 'L'}: 18601
+{'L', 'N'}: 18741
+{'L', 'O'}: 18589
+{'P', 'L'}: 18766
+{'Q', 'L'}: 18688
+{'L', 'R'}: 18712
+{'L', 'S'}: 18581
+{'L', 'T'}: 18737
+{'U', 'L'}: 18680
+{'L', 'V'}: 18718
+{'L', 'W'}: 18597
+{'X', 'L'}: 18549
+{'L', 'Y'}: 18461
+{'Z', 'L'}: 18579
+{'M', 'N'}: 18745
+{'M', 'O'}: 18904
+{'P', 'M'}: 18818
+{'Q', 'M'}: 18679
+{'M', 'R'}: 18675
+{'M', 'S'}: 18552
+{'M', 'T'}: 18633
+{'M', 'U'}: 18690
+{'M', 'V'}: 18831
+{'M', 'W'}: 18607
+{'X', 'M'}: 18684
+{'M', 'Y'}: 18738
+{'Z', 'M'}: 18596
+{'O', 'N'}: 18886
+{'P', 'N'}: 18795
+{'Q', 'N'}: 18746
+{'R', 'N'}: 18685
+{'S', 'N'}: 18743
+{'T', 'N'}: 18773
+{'U', 'N'}: 18693
+{'V', 'N'}: 18811
+{'W', 'N'}: 18516
+{'X', 'N'}: 18771
+{'Y', 'N'}: 18845
+{'Z', 'N'}: 18622
+{'P', 'O'}: 18814
+{'Q', 'O'}: 18855
+{'R', 'O'}: 18838
+{'S', 'O'}: 18771
+{'T', 'O'}: 18744
+{'U', 'O'}: 18949
+{'V', 'O'}: 18896
+{'W', 'O'}: 18981
+{'X', 'O'}: 18708
+{'Y', 'O'}: 18909
+{'Z', 'O'}: 18798
+{'Q', 'P'}: 18787
+{'P', 'R'}: 18879
+{'P', 'S'}: 18788
+{'P', 'T'}: 18765
+{'P', 'U'}: 18682
+{'P', 'V'}: 18978
+{'P', 'W'}: 18608
+{'X', 'P'}: 18579
+{'P', 'Y'}: 18667
+{'P', 'Z'}: 18604
+{'Q', 'R'}: 18694
+{'Q', 'S'}: 18735
+{'Q', 'T'}: 18830
+{'Q', 'U'}: 18952
+{'Q', 'V'}: 18826
+{'Q', 'W'}: 18766
+{'Q', 'X'}: 18779
+{'Q', 'Y'}: 18802
+{'Q', 'Z'}: 18939
+{'S', 'R'}: 18841
+{'R', 'T'}: 18904
+{'U', 'R'}: 18806
+{'V', 'R'}: 18878
+{'R', 'W'}: 18827
+{'X', 'R'}: 18835
+{'Y', 'R'}: 18840
+{'Z', 'R'}: 18536
+{'S', 'T'}: 18597
+{'U', 'S'}: 18581
+{'V', 'S'}: 18697
+{'S', 'W'}: 18642
+{'X', 'S'}: 18699
+{'S', 'Y'}: 18726
+{'Z', 'S'}: 18506
+{'U', 'T'}: 18567
+{'V', 'T'}: 18858
+{'T', 'W'}: 18579
+{'X', 'T'}: 18836
+{'Y', 'T'}: 18836
+{'Z', 'T'}: 18731
+{'U', 'V'}: 18725
+{'U', 'W'}: 18715
+{'X', 'U'}: 18728
+{'U', 'Y'}: 18665
+{'Z', 'U'}: 18734
+{'V', 'W'}: 18771
+{'X', 'V'}: 18618
+{'V', 'Y'}: 18688
+{'Z', 'V'}: 18856
+{'X', 'W'}: 18599
+{'Y', 'W'}: 18716
+{'Z', 'W'}: 18533
+{'X', 'Y'}: 18887
+{'X', 'Z'}: 18692
+{'Z', 'Y'}: 18664
+
+
+=== ASSOCIATION RULES (min_conf >= threshold) ===
+{'B'} => {'A'} (support=0.0933, confidence=0.32, lift=1.12)
+{'A'} => {'B'} (support=0.0933, confidence=0.32, lift=1.12)
+{'C'} => {'A'} (support=0.0940, confidence=0.32, lift=1.12)
+{'A'} => {'C'} (support=0.0940, confidence=0.32, lift=1.12)
+{'D'} => {'A'} (support=0.0940, confidence=0.33, lift=1.13)
+{'A'} => {'D'} (support=0.0940, confidence=0.32, lift=1.13)
+{'E'} => {'A'} (support=0.0935, confidence=0.32, lift=1.12)
+{'A'} => {'E'} (support=0.0935, confidence=0.32, lift=1.12)
+{'F'} => {'A'} (support=0.0939, confidence=0.32, lift=1.12)
+{'A'} => {'F'} (support=0.0939, confidence=0.32, lift=1.12)
+{'G'} => {'A'} (support=0.0937, confidence=0.33, lift=1.12)
+{'A'} => {'G'} (support=0.0937, confidence=0.32, lift=1.12)
+{'A'} => {'H'} (support=0.0927, confidence=0.32, lift=1.11)
+{'H'} => {'A'} (support=0.0927, confidence=0.32, lift=1.11)
+{'I'} => {'A'} (support=0.0937, confidence=0.33, lift=1.12)
+{'A'} => {'I'} (support=0.0937, confidence=0.32, lift=1.12)
+{'A'} => {'J'} (support=0.0932, confidence=0.32, lift=1.12)
+{'J'} => {'A'} (support=0.0932, confidence=0.32, lift=1.12)
+{'K'} => {'A'} (support=0.0947, confidence=0.33, lift=1.13)
+{'A'} => {'K'} (support=0.0947, confidence=0.33, lift=1.13)
+{'L'} => {'A'} (support=0.0935, confidence=0.33, lift=1.12)
+{'A'} => {'L'} (support=0.0935, confidence=0.32, lift=1.12)
+{'M'} => {'A'} (support=0.0930, confidence=0.32, lift=1.11)
+{'A'} => {'M'} (support=0.0930, confidence=0.32, lift=1.11)
+{'A'} => {'N'} (support=0.0935, confidence=0.32, lift=1.11)
+{'N'} => {'A'} (support=0.0935, confidence=0.32, lift=1.11)
+{'A'} => {'O'} (support=0.0948, confidence=0.33, lift=1.13)
+{'O'} => {'A'} (support=0.0948, confidence=0.33, lift=1.13)
+{'P'} => {'A'} (support=0.0940, confidence=0.33, lift=1.12)
+{'A'} => {'P'} (support=0.0940, confidence=0.32, lift=1.12)
+{'Q'} => {'A'} (support=0.0931, confidence=0.32, lift=1.11)
+{'A'} => {'Q'} (support=0.0931, confidence=0.32, lift=1.11)
+{'R'} => {'A'} (support=0.0943, confidence=0.33, lift=1.12)
+{'A'} => {'R'} (support=0.0943, confidence=0.33, lift=1.12)
+{'S'} => {'A'} (support=0.0937, confidence=0.32, lift=1.12)
+{'A'} => {'S'} (support=0.0937, confidence=0.32, lift=1.12)
+{'A'} => {'T'} (support=0.0942, confidence=0.33, lift=1.13)
+{'T'} => {'A'} (support=0.0942, confidence=0.33, lift=1.13)
+{'U'} => {'A'} (support=0.0940, confidence=0.32, lift=1.12)
+{'A'} => {'U'} (support=0.0940, confidence=0.32, lift=1.12)
+{'V'} => {'A'} (support=0.0944, confidence=0.33, lift=1.12)
+{'A'} => {'V'} (support=0.0944, confidence=0.33, lift=1.12)
+{'A'} => {'W'} (support=0.0934, confidence=0.32, lift=1.12)
+{'W'} => {'A'} (support=0.0934, confidence=0.32, lift=1.12)
+{'X'} => {'A'} (support=0.0941, confidence=0.33, lift=1.13)
+{'A'} => {'X'} (support=0.0941, confidence=0.33, lift=1.13)
+{'Y'} => {'A'} (support=0.0940, confidence=0.33, lift=1.13)
+{'A'} => {'Y'} (support=0.0940, confidence=0.32, lift=1.13)
+{'Z'} => {'A'} (support=0.0940, confidence=0.33, lift=1.13)
+{'A'} => {'Z'} (support=0.0940, confidence=0.32, lift=1.13)
+{'C'} => {'B'} (support=0.0946, confidence=0.33, lift=1.13)
+{'B'} => {'C'} (support=0.0946, confidence=0.33, lift=1.13)
+{'D'} => {'B'} (support=0.0935, confidence=0.32, lift=1.13)
+{'B'} => {'D'} (support=0.0935, confidence=0.32, lift=1.13)
+{'B'} => {'E'} (support=0.0930, confidence=0.32, lift=1.12)
+{'E'} => {'B'} (support=0.0930, confidence=0.32, lift=1.12)
+{'B'} => {'F'} (support=0.0937, confidence=0.33, lift=1.13)
+{'F'} => {'B'} (support=0.0937, confidence=0.32, lift=1.13)
+{'G'} => {'B'} (support=0.0918, confidence=0.32, lift=1.11)
+{'B'} => {'G'} (support=0.0918, confidence=0.32, lift=1.11)
+{'B'} => {'H'} (support=0.0931, confidence=0.32, lift=1.12)
+{'H'} => {'B'} (support=0.0931, confidence=0.32, lift=1.12)
+{'I'} => {'B'} (support=0.0930, confidence=0.32, lift=1.12)
+{'B'} => {'I'} (support=0.0930, confidence=0.32, lift=1.12)
+{'B'} => {'J'} (support=0.0932, confidence=0.32, lift=1.12)
+{'J'} => {'B'} (support=0.0932, confidence=0.32, lift=1.12)
+{'K'} => {'B'} (support=0.0931, confidence=0.32, lift=1.12)
+{'B'} => {'K'} (support=0.0931, confidence=0.32, lift=1.12)
+{'L'} => {'B'} (support=0.0933, confidence=0.32, lift=1.13)
+{'B'} => {'L'} (support=0.0933, confidence=0.32, lift=1.13)
+{'M'} => {'B'} (support=0.0935, confidence=0.32, lift=1.12)
+{'B'} => {'M'} (support=0.0935, confidence=0.32, lift=1.12)
+{'B'} => {'N'} (support=0.0936, confidence=0.32, lift=1.12)
+{'N'} => {'B'} (support=0.0936, confidence=0.32, lift=1.12)
+{'B'} => {'O'} (support=0.0939, confidence=0.33, lift=1.12)
+{'O'} => {'B'} (support=0.0939, confidence=0.32, lift=1.12)
+{'P'} => {'B'} (support=0.0942, confidence=0.33, lift=1.13)
+{'B'} => {'P'} (support=0.0942, confidence=0.33, lift=1.13)
+{'Q'} => {'B'} (support=0.0935, confidence=0.32, lift=1.12)
+{'B'} => {'Q'} (support=0.0935, confidence=0.32, lift=1.12)
+{'B'} => {'R'} (support=0.0932, confidence=0.32, lift=1.12)
+{'R'} => {'B'} (support=0.0932, confidence=0.32, lift=1.12)
+{'S'} => {'B'} (support=0.0925, confidence=0.32, lift=1.11)
+{'B'} => {'S'} (support=0.0925, confidence=0.32, lift=1.11)
+{'B'} => {'T'} (support=0.0936, confidence=0.33, lift=1.12)
+{'T'} => {'B'} (support=0.0936, confidence=0.32, lift=1.12)
+{'U'} => {'B'} (support=0.0926, confidence=0.32, lift=1.11)
+{'B'} => {'U'} (support=0.0926, confidence=0.32, lift=1.11)
+{'V'} => {'B'} (support=0.0940, confidence=0.32, lift=1.13)
+{'B'} => {'V'} (support=0.0940, confidence=0.33, lift=1.13)
+{'B'} => {'W'} (support=0.0925, confidence=0.32, lift=1.12)
+{'W'} => {'B'} (support=0.0925, confidence=0.32, lift=1.12)
+{'X'} => {'B'} (support=0.0932, confidence=0.32, lift=1.13)
+{'B'} => {'X'} (support=0.0932, confidence=0.32, lift=1.13)
+{'B'} => {'Y'} (support=0.0925, confidence=0.32, lift=1.11)
+{'Y'} => {'B'} (support=0.0925, confidence=0.32, lift=1.11)
+{'Z'} => {'B'} (support=0.0932, confidence=0.32, lift=1.12)
+{'B'} => {'Z'} (support=0.0932, confidence=0.32, lift=1.12)
+{'D'} => {'C'} (support=0.0947, confidence=0.33, lift=1.13)
+{'C'} => {'D'} (support=0.0947, confidence=0.33, lift=1.13)
+{'C'} => {'E'} (support=0.0943, confidence=0.32, lift=1.12)
+{'E'} => {'C'} (support=0.0943, confidence=0.33, lift=1.12)
+{'C'} => {'F'} (support=0.0937, confidence=0.32, lift=1.12)
+{'F'} => {'C'} (support=0.0937, confidence=0.32, lift=1.12)
+{'G'} => {'C'} (support=0.0935, confidence=0.32, lift=1.12)
+{'C'} => {'G'} (support=0.0935, confidence=0.32, lift=1.12)
+{'C'} => {'H'} (support=0.0943, confidence=0.32, lift=1.13)
+{'H'} => {'C'} (support=0.0943, confidence=0.33, lift=1.13)
+{'I'} => {'C'} (support=0.0925, confidence=0.32, lift=1.10)
+{'C'} => {'I'} (support=0.0925, confidence=0.32, lift=1.10)
+{'C'} => {'J'} (support=0.0951, confidence=0.33, lift=1.13)
+{'J'} => {'C'} (support=0.0951, confidence=0.33, lift=1.13)
+{'K'} => {'C'} (support=0.0945, confidence=0.33, lift=1.12)
+{'C'} => {'K'} (support=0.0945, confidence=0.33, lift=1.12)
+{'L'} => {'C'} (support=0.0935, confidence=0.33, lift=1.12)
+{'C'} => {'L'} (support=0.0935, confidence=0.32, lift=1.12)
+{'M'} => {'C'} (support=0.0942, confidence=0.33, lift=1.12)
+{'C'} => {'M'} (support=0.0942, confidence=0.32, lift=1.12)
+{'C'} => {'N'} (support=0.0944, confidence=0.32, lift=1.12)
+{'N'} => {'C'} (support=0.0944, confidence=0.33, lift=1.12)
+{'C'} => {'O'} (support=0.0951, confidence=0.33, lift=1.13)
+{'O'} => {'C'} (support=0.0951, confidence=0.33, lift=1.13)
+{'P'} => {'C'} (support=0.0943, confidence=0.33, lift=1.12)
+{'C'} => {'P'} (support=0.0943, confidence=0.32, lift=1.12)
+{'Q'} => {'C'} (support=0.0948, confidence=0.33, lift=1.12)
+{'C'} => {'Q'} (support=0.0948, confidence=0.33, lift=1.12)
+{'C'} => {'R'} (support=0.0941, confidence=0.32, lift=1.12)
+{'R'} => {'C'} (support=0.0941, confidence=0.32, lift=1.12)
+{'S'} => {'C'} (support=0.0940, confidence=0.33, lift=1.12)
+{'C'} => {'S'} (support=0.0940, confidence=0.32, lift=1.12)
+{'C'} => {'T'} (support=0.0941, confidence=0.32, lift=1.12)
+{'T'} => {'C'} (support=0.0941, confidence=0.33, lift=1.12)
+{'U'} => {'C'} (support=0.0944, confidence=0.33, lift=1.12)
+{'C'} => {'U'} (support=0.0944, confidence=0.32, lift=1.12)
+{'V'} => {'C'} (support=0.0944, confidence=0.33, lift=1.12)
+{'C'} => {'V'} (support=0.0944, confidence=0.32, lift=1.12)
+{'C'} => {'W'} (support=0.0937, confidence=0.32, lift=1.12)
+{'W'} => {'C'} (support=0.0937, confidence=0.33, lift=1.12)
+{'X'} => {'C'} (support=0.0937, confidence=0.33, lift=1.12)
+{'C'} => {'X'} (support=0.0937, confidence=0.32, lift=1.12)
+{'C'} => {'Y'} (support=0.0936, confidence=0.32, lift=1.12)
+{'Y'} => {'C'} (support=0.0936, confidence=0.32, lift=1.12)
+{'Z'} => {'C'} (support=0.0937, confidence=0.33, lift=1.12)
+{'C'} => {'Z'} (support=0.0937, confidence=0.32, lift=1.12)
+{'D'} => {'E'} (support=0.0933, confidence=0.32, lift=1.12)
+{'E'} => {'D'} (support=0.0933, confidence=0.32, lift=1.12)
+{'D'} => {'F'} (support=0.0930, confidence=0.32, lift=1.12)
+{'F'} => {'D'} (support=0.0930, confidence=0.32, lift=1.12)
+{'D'} => {'G'} (support=0.0926, confidence=0.32, lift=1.12)
+{'G'} => {'D'} (support=0.0926, confidence=0.32, lift=1.12)
+{'D'} => {'H'} (support=0.0923, confidence=0.32, lift=1.11)
+{'H'} => {'D'} (support=0.0923, confidence=0.32, lift=1.11)
+{'I'} => {'D'} (support=0.0929, confidence=0.32, lift=1.12)
+{'D'} => {'I'} (support=0.0929, confidence=0.32, lift=1.12)
+{'D'} => {'J'} (support=0.0931, confidence=0.32, lift=1.12)
+{'J'} => {'D'} (support=0.0931, confidence=0.32, lift=1.12)
+{'K'} => {'D'} (support=0.0934, confidence=0.32, lift=1.12)
+{'D'} => {'K'} (support=0.0934, confidence=0.32, lift=1.12)
+{'L'} => {'D'} (support=0.0935, confidence=0.33, lift=1.13)
+{'D'} => {'L'} (support=0.0935, confidence=0.32, lift=1.13)
+{'M'} => {'D'} (support=0.0935, confidence=0.32, lift=1.12)
+{'D'} => {'M'} (support=0.0935, confidence=0.32, lift=1.12)
+{'D'} => {'N'} (support=0.0932, confidence=0.32, lift=1.12)
+{'N'} => {'D'} (support=0.0932, confidence=0.32, lift=1.12)
+{'D'} => {'O'} (support=0.0936, confidence=0.32, lift=1.12)
+{'O'} => {'D'} (support=0.0936, confidence=0.32, lift=1.12)
+{'P'} => {'D'} (support=0.0943, confidence=0.33, lift=1.13)
+{'D'} => {'P'} (support=0.0943, confidence=0.33, lift=1.13)
+{'Q'} => {'D'} (support=0.0936, confidence=0.32, lift=1.12)
+{'D'} => {'Q'} (support=0.0936, confidence=0.32, lift=1.12)
+{'D'} => {'R'} (support=0.0939, confidence=0.33, lift=1.12)
+{'R'} => {'D'} (support=0.0939, confidence=0.32, lift=1.12)
+{'D'} => {'S'} (support=0.0927, confidence=0.32, lift=1.11)
+{'S'} => {'D'} (support=0.0927, confidence=0.32, lift=1.11)
+{'D'} => {'T'} (support=0.0941, confidence=0.33, lift=1.13)
+{'T'} => {'D'} (support=0.0941, confidence=0.33, lift=1.13)
+{'U'} => {'D'} (support=0.0930, confidence=0.32, lift=1.11)
+{'D'} => {'U'} (support=0.0930, confidence=0.32, lift=1.11)
+{'D'} => {'V'} (support=0.0942, confidence=0.33, lift=1.13)
+{'V'} => {'D'} (support=0.0942, confidence=0.32, lift=1.13)
+{'D'} => {'W'} (support=0.0936, confidence=0.32, lift=1.13)
+{'W'} => {'D'} (support=0.0936, confidence=0.33, lift=1.13)
+{'X'} => {'D'} (support=0.0929, confidence=0.32, lift=1.12)
+{'D'} => {'X'} (support=0.0929, confidence=0.32, lift=1.12)
+{'D'} => {'Y'} (support=0.0937, confidence=0.33, lift=1.13)
+{'Y'} => {'D'} (support=0.0937, confidence=0.32, lift=1.13)
+{'Z'} => {'D'} (support=0.0920, confidence=0.32, lift=1.11)
+{'D'} => {'Z'} (support=0.0920, confidence=0.32, lift=1.11)
+{'F'} => {'E'} (support=0.0935, confidence=0.32, lift=1.12)
+{'E'} => {'F'} (support=0.0935, confidence=0.32, lift=1.12)
+{'G'} => {'E'} (support=0.0932, confidence=0.32, lift=1.12)
+{'E'} => {'G'} (support=0.0932, confidence=0.32, lift=1.12)
+{'E'} => {'H'} (support=0.0937, confidence=0.32, lift=1.13)
+{'H'} => {'E'} (support=0.0937, confidence=0.33, lift=1.13)
+{'I'} => {'E'} (support=0.0938, confidence=0.33, lift=1.13)
+{'E'} => {'I'} (support=0.0938, confidence=0.32, lift=1.13)
+{'E'} => {'J'} (support=0.0942, confidence=0.33, lift=1.13)
+{'J'} => {'E'} (support=0.0942, confidence=0.33, lift=1.13)
+{'K'} => {'E'} (support=0.0936, confidence=0.32, lift=1.12)
+{'E'} => {'K'} (support=0.0936, confidence=0.32, lift=1.12)
+{'L'} => {'E'} (support=0.0928, confidence=0.32, lift=1.12)
+{'E'} => {'L'} (support=0.0928, confidence=0.32, lift=1.12)
+{'M'} => {'E'} (support=0.0940, confidence=0.33, lift=1.13)
+{'E'} => {'M'} (support=0.0940, confidence=0.33, lift=1.13)
+{'E'} => {'N'} (support=0.0941, confidence=0.33, lift=1.12)
+{'N'} => {'E'} (support=0.0941, confidence=0.32, lift=1.12)
+{'E'} => {'O'} (support=0.0941, confidence=0.33, lift=1.12)
+{'O'} => {'E'} (support=0.0941, confidence=0.32, lift=1.12)
+{'P'} => {'E'} (support=0.0940, confidence=0.33, lift=1.13)
+{'E'} => {'P'} (support=0.0940, confidence=0.33, lift=1.13)
+{'Q'} => {'E'} (support=0.0936, confidence=0.32, lift=1.12)
+{'E'} => {'Q'} (support=0.0936, confidence=0.32, lift=1.12)
+{'E'} => {'R'} (support=0.0936, confidence=0.32, lift=1.12)
+{'R'} => {'E'} (support=0.0936, confidence=0.32, lift=1.12)
+{'S'} => {'E'} (support=0.0933, confidence=0.32, lift=1.12)
+{'E'} => {'S'} (support=0.0933, confidence=0.32, lift=1.12)
+{'E'} => {'T'} (support=0.0937, confidence=0.32, lift=1.12)
+{'T'} => {'E'} (support=0.0937, confidence=0.32, lift=1.12)
+{'U'} => {'E'} (support=0.0937, confidence=0.32, lift=1.12)
+{'E'} => {'U'} (support=0.0937, confidence=0.32, lift=1.12)
+{'V'} => {'E'} (support=0.0941, confidence=0.32, lift=1.12)
+{'E'} => {'V'} (support=0.0941, confidence=0.33, lift=1.12)
+{'E'} => {'W'} (support=0.0929, confidence=0.32, lift=1.12)
+{'W'} => {'E'} (support=0.0929, confidence=0.32, lift=1.12)
+{'X'} => {'E'} (support=0.0926, confidence=0.32, lift=1.11)
+{'E'} => {'X'} (support=0.0926, confidence=0.32, lift=1.11)
+{'Y'} => {'E'} (support=0.0932, confidence=0.32, lift=1.12)
+{'E'} => {'Y'} (support=0.0932, confidence=0.32, lift=1.12)
+{'Z'} => {'E'} (support=0.0931, confidence=0.32, lift=1.12)
+{'E'} => {'Z'} (support=0.0931, confidence=0.32, lift=1.12)
+{'G'} => {'F'} (support=0.0930, confidence=0.32, lift=1.12)
+{'F'} => {'G'} (support=0.0930, confidence=0.32, lift=1.12)
+{'F'} => {'H'} (support=0.0922, confidence=0.32, lift=1.11)
+{'H'} => {'F'} (support=0.0922, confidence=0.32, lift=1.11)
+{'I'} => {'F'} (support=0.0932, confidence=0.32, lift=1.12)
+{'F'} => {'I'} (support=0.0932, confidence=0.32, lift=1.12)
+{'F'} => {'J'} (support=0.0933, confidence=0.32, lift=1.12)
+{'J'} => {'F'} (support=0.0933, confidence=0.32, lift=1.12)
+{'K'} => {'F'} (support=0.0943, confidence=0.33, lift=1.13)
+{'F'} => {'K'} (support=0.0943, confidence=0.33, lift=1.13)
+{'L'} => {'F'} (support=0.0931, confidence=0.32, lift=1.12)
+{'F'} => {'L'} (support=0.0931, confidence=0.32, lift=1.12)
+{'M'} => {'F'} (support=0.0940, confidence=0.33, lift=1.13)
+{'F'} => {'M'} (support=0.0940, confidence=0.33, lift=1.13)
+{'F'} => {'N'} (support=0.0938, confidence=0.32, lift=1.12)
+{'N'} => {'F'} (support=0.0938, confidence=0.32, lift=1.12)
+{'F'} => {'O'} (support=0.0948, confidence=0.33, lift=1.13)
+{'O'} => {'F'} (support=0.0948, confidence=0.33, lift=1.13)
+{'P'} => {'F'} (support=0.0929, confidence=0.32, lift=1.11)
+{'F'} => {'P'} (support=0.0929, confidence=0.32, lift=1.11)
+{'Q'} => {'F'} (support=0.0941, confidence=0.32, lift=1.12)
+{'F'} => {'Q'} (support=0.0941, confidence=0.33, lift=1.12)
+{'F'} => {'R'} (support=0.0931, confidence=0.32, lift=1.11)
+{'R'} => {'F'} (support=0.0931, confidence=0.32, lift=1.11)
+{'S'} => {'F'} (support=0.0937, confidence=0.32, lift=1.12)
+{'F'} => {'S'} (support=0.0937, confidence=0.32, lift=1.12)
+{'F'} => {'T'} (support=0.0944, confidence=0.33, lift=1.13)
+{'T'} => {'F'} (support=0.0944, confidence=0.33, lift=1.13)
+{'U'} => {'F'} (support=0.0936, confidence=0.32, lift=1.12)
+{'F'} => {'U'} (support=0.0936, confidence=0.32, lift=1.12)
+{'V'} => {'F'} (support=0.0939, confidence=0.32, lift=1.12)
+{'F'} => {'V'} (support=0.0939, confidence=0.32, lift=1.12)
+{'F'} => {'W'} (support=0.0937, confidence=0.32, lift=1.13)
+{'W'} => {'F'} (support=0.0937, confidence=0.33, lift=1.13)
+{'X'} => {'F'} (support=0.0942, confidence=0.33, lift=1.13)
+{'F'} => {'X'} (support=0.0942, confidence=0.33, lift=1.13)
+{'Y'} => {'F'} (support=0.0930, confidence=0.32, lift=1.12)
+{'F'} => {'Y'} (support=0.0930, confidence=0.32, lift=1.12)
+{'Z'} => {'F'} (support=0.0930, confidence=0.32, lift=1.12)
+{'F'} => {'Z'} (support=0.0930, confidence=0.32, lift=1.12)
+{'G'} => {'H'} (support=0.0928, confidence=0.32, lift=1.12)
+{'H'} => {'G'} (support=0.0928, confidence=0.32, lift=1.12)
+{'I'} => {'G'} (support=0.0926, confidence=0.32, lift=1.12)
+{'G'} => {'I'} (support=0.0926, confidence=0.32, lift=1.12)
+{'G'} => {'J'} (support=0.0934, confidence=0.32, lift=1.12)
+{'J'} => {'G'} (support=0.0934, confidence=0.32, lift=1.12)
+{'K'} => {'G'} (support=0.0936, confidence=0.32, lift=1.12)
+{'G'} => {'K'} (support=0.0936, confidence=0.32, lift=1.12)
+{'L'} => {'G'} (support=0.0921, confidence=0.32, lift=1.11)
+{'G'} => {'L'} (support=0.0921, confidence=0.32, lift=1.11)
+{'M'} => {'G'} (support=0.0935, confidence=0.32, lift=1.12)
+{'G'} => {'M'} (support=0.0935, confidence=0.32, lift=1.12)
+{'G'} => {'N'} (support=0.0937, confidence=0.33, lift=1.12)
+{'N'} => {'G'} (support=0.0937, confidence=0.32, lift=1.12)
+{'G'} => {'O'} (support=0.0939, confidence=0.33, lift=1.12)
+{'O'} => {'G'} (support=0.0939, confidence=0.32, lift=1.12)
+{'P'} => {'G'} (support=0.0932, confidence=0.32, lift=1.12)
+{'G'} => {'P'} (support=0.0932, confidence=0.32, lift=1.12)
+{'Q'} => {'G'} (support=0.0938, confidence=0.32, lift=1.12)
+{'G'} => {'Q'} (support=0.0938, confidence=0.33, lift=1.12)
+{'G'} => {'R'} (support=0.0918, confidence=0.32, lift=1.10)
+{'R'} => {'G'} (support=0.0918, confidence=0.32, lift=1.10)
+{'G'} => {'S'} (support=0.0927, confidence=0.32, lift=1.12)
+{'S'} => {'G'} (support=0.0927, confidence=0.32, lift=1.12)
+{'G'} => {'T'} (support=0.0933, confidence=0.32, lift=1.12)
+{'T'} => {'G'} (support=0.0933, confidence=0.32, lift=1.12)
+{'U'} => {'G'} (support=0.0935, confidence=0.32, lift=1.12)
+{'G'} => {'U'} (support=0.0935, confidence=0.32, lift=1.12)
+{'G'} => {'V'} (support=0.0939, confidence=0.33, lift=1.12)
+{'V'} => {'G'} (support=0.0939, confidence=0.32, lift=1.12)
+{'G'} => {'W'} (support=0.0924, confidence=0.32, lift=1.11)
+{'W'} => {'G'} (support=0.0924, confidence=0.32, lift=1.11)
+{'X'} => {'G'} (support=0.0932, confidence=0.32, lift=1.12)
+{'G'} => {'X'} (support=0.0932, confidence=0.32, lift=1.12)
+{'G'} => {'Y'} (support=0.0935, confidence=0.32, lift=1.13)
+{'Y'} => {'G'} (support=0.0935, confidence=0.32, lift=1.13)
+{'Z'} => {'G'} (support=0.0931, confidence=0.32, lift=1.12)
+{'G'} => {'Z'} (support=0.0931, confidence=0.32, lift=1.12)
+{'I'} => {'H'} (support=0.0921, confidence=0.32, lift=1.11)
+{'H'} => {'I'} (support=0.0921, confidence=0.32, lift=1.11)
+{'H'} => {'J'} (support=0.0937, confidence=0.33, lift=1.13)
+{'J'} => {'H'} (support=0.0937, confidence=0.32, lift=1.13)
+{'K'} => {'H'} (support=0.0934, confidence=0.32, lift=1.12)
+{'H'} => {'K'} (support=0.0934, confidence=0.32, lift=1.12)
+{'L'} => {'H'} (support=0.0932, confidence=0.32, lift=1.13)
+{'H'} => {'L'} (support=0.0932, confidence=0.32, lift=1.13)
+{'M'} => {'H'} (support=0.0932, confidence=0.32, lift=1.12)
+{'H'} => {'M'} (support=0.0932, confidence=0.32, lift=1.12)
+{'H'} => {'N'} (support=0.0935, confidence=0.32, lift=1.12)
+{'N'} => {'H'} (support=0.0935, confidence=0.32, lift=1.12)
+{'H'} => {'O'} (support=0.0942, confidence=0.33, lift=1.13)
+{'O'} => {'H'} (support=0.0942, confidence=0.32, lift=1.13)
+{'P'} => {'H'} (support=0.0935, confidence=0.32, lift=1.12)
+{'H'} => {'P'} (support=0.0935, confidence=0.32, lift=1.12)
+{'Q'} => {'H'} (support=0.0935, confidence=0.32, lift=1.12)
+{'H'} => {'Q'} (support=0.0935, confidence=0.32, lift=1.12)
+{'R'} => {'H'} (support=0.0925, confidence=0.32, lift=1.11)
+{'H'} => {'R'} (support=0.0925, confidence=0.32, lift=1.11)
+{'S'} => {'H'} (support=0.0936, confidence=0.32, lift=1.13)
+{'H'} => {'S'} (support=0.0936, confidence=0.33, lift=1.13)
+{'T'} => {'H'} (support=0.0937, confidence=0.32, lift=1.13)
+{'H'} => {'T'} (support=0.0937, confidence=0.33, lift=1.13)
+{'U'} => {'H'} (support=0.0934, confidence=0.32, lift=1.12)
+{'H'} => {'U'} (support=0.0934, confidence=0.32, lift=1.12)
+{'V'} => {'H'} (support=0.0933, confidence=0.32, lift=1.12)
+{'H'} => {'V'} (support=0.0933, confidence=0.32, lift=1.12)
+{'H'} => {'W'} (support=0.0935, confidence=0.32, lift=1.13)
+{'W'} => {'H'} (support=0.0935, confidence=0.32, lift=1.13)
+{'X'} => {'H'} (support=0.0928, confidence=0.32, lift=1.12)
+{'H'} => {'X'} (support=0.0928, confidence=0.32, lift=1.12)
+{'Y'} => {'H'} (support=0.0941, confidence=0.33, lift=1.13)
+{'H'} => {'Y'} (support=0.0941, confidence=0.33, lift=1.13)
+{'Z'} => {'H'} (support=0.0927, confidence=0.32, lift=1.12)
+{'H'} => {'Z'} (support=0.0927, confidence=0.32, lift=1.12)
+{'I'} => {'J'} (support=0.0937, confidence=0.33, lift=1.13)
+{'J'} => {'I'} (support=0.0937, confidence=0.32, lift=1.13)
+{'I'} => {'K'} (support=0.0938, confidence=0.33, lift=1.13)
+{'K'} => {'I'} (support=0.0938, confidence=0.32, lift=1.13)
+{'I'} => {'L'} (support=0.0924, confidence=0.32, lift=1.12)
+{'L'} => {'I'} (support=0.0924, confidence=0.32, lift=1.12)
+{'I'} => {'M'} (support=0.0936, confidence=0.33, lift=1.13)
+{'M'} => {'I'} (support=0.0936, confidence=0.32, lift=1.13)
+{'I'} => {'N'} (support=0.0938, confidence=0.33, lift=1.12)
+{'N'} => {'I'} (support=0.0938, confidence=0.32, lift=1.12)
+{'I'} => {'O'} (support=0.0939, confidence=0.33, lift=1.12)
+{'O'} => {'I'} (support=0.0939, confidence=0.32, lift=1.12)
+{'I'} => {'P'} (support=0.0932, confidence=0.32, lift=1.12)
+{'P'} => {'I'} (support=0.0932, confidence=0.32, lift=1.12)
+{'Q'} => {'I'} (support=0.0935, confidence=0.32, lift=1.12)
+{'I'} => {'Q'} (support=0.0935, confidence=0.32, lift=1.12)
+{'I'} => {'R'} (support=0.0934, confidence=0.32, lift=1.12)
+{'R'} => {'I'} (support=0.0934, confidence=0.32, lift=1.12)
+{'I'} => {'S'} (support=0.0930, confidence=0.32, lift=1.12)
+{'S'} => {'I'} (support=0.0930, confidence=0.32, lift=1.12)
+{'I'} => {'T'} (support=0.0928, confidence=0.32, lift=1.11)
+{'T'} => {'I'} (support=0.0928, confidence=0.32, lift=1.11)
+{'I'} => {'U'} (support=0.0936, confidence=0.32, lift=1.12)
+{'U'} => {'I'} (support=0.0936, confidence=0.32, lift=1.12)
+{'I'} => {'V'} (support=0.0933, confidence=0.32, lift=1.12)
+{'V'} => {'I'} (support=0.0933, confidence=0.32, lift=1.12)
+{'I'} => {'W'} (support=0.0927, confidence=0.32, lift=1.12)
+{'W'} => {'I'} (support=0.0927, confidence=0.32, lift=1.12)
+{'X'} => {'I'} (support=0.0928, confidence=0.32, lift=1.12)
+{'I'} => {'X'} (support=0.0928, confidence=0.32, lift=1.12)
+{'I'} => {'Y'} (support=0.0931, confidence=0.32, lift=1.12)
+{'Y'} => {'I'} (support=0.0931, confidence=0.32, lift=1.12)
+{'I'} => {'Z'} (support=0.0932, confidence=0.32, lift=1.12)
+{'Z'} => {'I'} (support=0.0932, confidence=0.32, lift=1.12)
+{'K'} => {'J'} (support=0.0940, confidence=0.32, lift=1.13)
+{'J'} => {'K'} (support=0.0940, confidence=0.33, lift=1.13)
+{'L'} => {'J'} (support=0.0927, confidence=0.32, lift=1.12)
+{'J'} => {'L'} (support=0.0927, confidence=0.32, lift=1.12)
+{'M'} => {'J'} (support=0.0936, confidence=0.32, lift=1.12)
+{'J'} => {'M'} (support=0.0936, confidence=0.32, lift=1.12)
+{'N'} => {'J'} (support=0.0936, confidence=0.32, lift=1.12)
+{'J'} => {'N'} (support=0.0936, confidence=0.32, lift=1.12)
+{'O'} => {'J'} (support=0.0940, confidence=0.32, lift=1.12)
+{'J'} => {'O'} (support=0.0940, confidence=0.33, lift=1.12)
+{'P'} => {'J'} (support=0.0935, confidence=0.32, lift=1.12)
+{'J'} => {'P'} (support=0.0935, confidence=0.32, lift=1.12)
+{'Q'} => {'J'} (support=0.0937, confidence=0.32, lift=1.12)
+{'J'} => {'Q'} (support=0.0937, confidence=0.32, lift=1.12)
+{'R'} => {'J'} (support=0.0936, confidence=0.32, lift=1.12)
+{'J'} => {'R'} (support=0.0936, confidence=0.32, lift=1.12)
+{'S'} => {'J'} (support=0.0932, confidence=0.32, lift=1.12)
+{'J'} => {'S'} (support=0.0932, confidence=0.32, lift=1.12)
+{'T'} => {'J'} (support=0.0932, confidence=0.32, lift=1.12)
+{'J'} => {'T'} (support=0.0932, confidence=0.32, lift=1.12)
+{'U'} => {'J'} (support=0.0934, confidence=0.32, lift=1.12)
+{'J'} => {'U'} (support=0.0934, confidence=0.32, lift=1.12)
+{'V'} => {'J'} (support=0.0937, confidence=0.32, lift=1.12)
+{'J'} => {'V'} (support=0.0937, confidence=0.32, lift=1.12)
+{'W'} => {'J'} (support=0.0927, confidence=0.32, lift=1.12)
+{'J'} => {'W'} (support=0.0927, confidence=0.32, lift=1.12)
+{'X'} => {'J'} (support=0.0929, confidence=0.32, lift=1.12)
+{'J'} => {'X'} (support=0.0929, confidence=0.32, lift=1.12)
+{'Y'} => {'J'} (support=0.0946, confidence=0.33, lift=1.14)
+{'J'} => {'Y'} (support=0.0946, confidence=0.33, lift=1.14)
+{'Z'} => {'J'} (support=0.0933, confidence=0.32, lift=1.12)
+{'J'} => {'Z'} (support=0.0933, confidence=0.32, lift=1.12)
+{'K'} => {'L'} (support=0.0936, confidence=0.32, lift=1.12)
+{'L'} => {'K'} (support=0.0936, confidence=0.33, lift=1.12)
+{'K'} => {'M'} (support=0.0934, confidence=0.32, lift=1.12)
+{'M'} => {'K'} (support=0.0934, confidence=0.32, lift=1.12)
+{'K'} => {'N'} (support=0.0937, confidence=0.32, lift=1.12)
+{'N'} => {'K'} (support=0.0937, confidence=0.32, lift=1.12)
+{'K'} => {'O'} (support=0.0938, confidence=0.32, lift=1.12)
+{'O'} => {'K'} (support=0.0938, confidence=0.32, lift=1.12)
+{'K'} => {'P'} (support=0.0941, confidence=0.32, lift=1.13)
+{'P'} => {'K'} (support=0.0941, confidence=0.33, lift=1.13)
+{'Q'} => {'K'} (support=0.0939, confidence=0.32, lift=1.12)
+{'K'} => {'Q'} (support=0.0939, confidence=0.32, lift=1.12)
+{'K'} => {'R'} (support=0.0940, confidence=0.32, lift=1.12)
+{'R'} => {'K'} (support=0.0940, confidence=0.32, lift=1.12)
+{'K'} => {'S'} (support=0.0935, confidence=0.32, lift=1.12)
+{'S'} => {'K'} (support=0.0935, confidence=0.32, lift=1.12)
+{'K'} => {'T'} (support=0.0941, confidence=0.32, lift=1.12)
+{'T'} => {'K'} (support=0.0941, confidence=0.33, lift=1.12)
+{'K'} => {'U'} (support=0.0942, confidence=0.33, lift=1.12)
+{'U'} => {'K'} (support=0.0942, confidence=0.33, lift=1.12)
+{'K'} => {'V'} (support=0.0939, confidence=0.32, lift=1.12)
+{'V'} => {'K'} (support=0.0939, confidence=0.32, lift=1.12)
+{'K'} => {'W'} (support=0.0938, confidence=0.32, lift=1.13)
+{'W'} => {'K'} (support=0.0938, confidence=0.33, lift=1.13)
+{'X'} => {'K'} (support=0.0933, confidence=0.32, lift=1.12)
+{'K'} => {'X'} (support=0.0933, confidence=0.32, lift=1.12)
+{'K'} => {'Y'} (support=0.0944, confidence=0.33, lift=1.13)
+{'Y'} => {'K'} (support=0.0944, confidence=0.33, lift=1.13)
+{'K'} => {'Z'} (support=0.0933, confidence=0.32, lift=1.12)
+{'Z'} => {'K'} (support=0.0933, confidence=0.32, lift=1.12)
+{'M'} => {'L'} (support=0.0930, confidence=0.32, lift=1.12)
+{'L'} => {'M'} (support=0.0930, confidence=0.32, lift=1.12)
+{'L'} => {'N'} (support=0.0937, confidence=0.33, lift=1.12)
+{'N'} => {'L'} (support=0.0937, confidence=0.32, lift=1.12)
+{'L'} => {'O'} (support=0.0929, confidence=0.32, lift=1.11)
+{'O'} => {'L'} (support=0.0929, confidence=0.32, lift=1.11)
+{'P'} => {'L'} (support=0.0938, confidence=0.33, lift=1.13)
+{'L'} => {'P'} (support=0.0938, confidence=0.33, lift=1.13)
+{'Q'} => {'L'} (support=0.0934, confidence=0.32, lift=1.12)
+{'L'} => {'Q'} (support=0.0934, confidence=0.32, lift=1.12)
+{'L'} => {'R'} (support=0.0936, confidence=0.33, lift=1.12)
+{'R'} => {'L'} (support=0.0936, confidence=0.32, lift=1.12)
+{'L'} => {'S'} (support=0.0929, confidence=0.32, lift=1.12)
+{'S'} => {'L'} (support=0.0929, confidence=0.32, lift=1.12)
+{'L'} => {'T'} (support=0.0937, confidence=0.33, lift=1.13)
+{'T'} => {'L'} (support=0.0937, confidence=0.32, lift=1.13)
+{'U'} => {'L'} (support=0.0934, confidence=0.32, lift=1.12)
+{'L'} => {'U'} (support=0.0934, confidence=0.32, lift=1.12)
+{'L'} => {'V'} (support=0.0936, confidence=0.33, lift=1.12)
+{'V'} => {'L'} (support=0.0936, confidence=0.32, lift=1.12)
+{'L'} => {'W'} (support=0.0930, confidence=0.32, lift=1.12)
+{'W'} => {'L'} (support=0.0930, confidence=0.32, lift=1.12)
+{'X'} => {'L'} (support=0.0927, confidence=0.32, lift=1.12)
+{'L'} => {'X'} (support=0.0927, confidence=0.32, lift=1.12)
+{'L'} => {'Y'} (support=0.0923, confidence=0.32, lift=1.11)
+{'Y'} => {'L'} (support=0.0923, confidence=0.32, lift=1.11)
+{'Z'} => {'L'} (support=0.0929, confidence=0.32, lift=1.12)
+{'L'} => {'Z'} (support=0.0929, confidence=0.32, lift=1.12)
+{'M'} => {'N'} (support=0.0937, confidence=0.32, lift=1.12)
+{'N'} => {'M'} (support=0.0937, confidence=0.32, lift=1.12)
+{'M'} => {'O'} (support=0.0945, confidence=0.33, lift=1.13)
+{'O'} => {'M'} (support=0.0945, confidence=0.33, lift=1.13)
+{'P'} => {'M'} (support=0.0941, confidence=0.33, lift=1.13)
+{'M'} => {'P'} (support=0.0941, confidence=0.33, lift=1.13)
+{'Q'} => {'M'} (support=0.0934, confidence=0.32, lift=1.12)
+{'M'} => {'Q'} (support=0.0934, confidence=0.32, lift=1.12)
+{'M'} => {'R'} (support=0.0934, confidence=0.32, lift=1.12)
+{'R'} => {'M'} (support=0.0934, confidence=0.32, lift=1.12)
+{'M'} => {'S'} (support=0.0928, confidence=0.32, lift=1.11)
+{'S'} => {'M'} (support=0.0928, confidence=0.32, lift=1.11)
+{'M'} => {'T'} (support=0.0932, confidence=0.32, lift=1.12)
+{'T'} => {'M'} (support=0.0932, confidence=0.32, lift=1.12)
+{'M'} => {'U'} (support=0.0935, confidence=0.32, lift=1.12)
+{'U'} => {'M'} (support=0.0935, confidence=0.32, lift=1.12)
+{'M'} => {'V'} (support=0.0942, confidence=0.33, lift=1.12)
+{'V'} => {'M'} (support=0.0942, confidence=0.32, lift=1.12)
+{'M'} => {'W'} (support=0.0930, confidence=0.32, lift=1.12)
+{'W'} => {'M'} (support=0.0930, confidence=0.32, lift=1.12)
+{'X'} => {'M'} (support=0.0934, confidence=0.32, lift=1.12)
+{'M'} => {'X'} (support=0.0934, confidence=0.32, lift=1.12)
+{'M'} => {'Y'} (support=0.0937, confidence=0.32, lift=1.12)
+{'Y'} => {'M'} (support=0.0937, confidence=0.32, lift=1.12)
+{'Z'} => {'M'} (support=0.0930, confidence=0.32, lift=1.12)
+{'M'} => {'Z'} (support=0.0930, confidence=0.32, lift=1.12)
+{'O'} => {'N'} (support=0.0944, confidence=0.33, lift=1.12)
+{'N'} => {'O'} (support=0.0944, confidence=0.33, lift=1.12)
+{'P'} => {'N'} (support=0.0940, confidence=0.33, lift=1.12)
+{'N'} => {'P'} (support=0.0940, confidence=0.32, lift=1.12)
+{'Q'} => {'N'} (support=0.0937, confidence=0.32, lift=1.12)
+{'N'} => {'Q'} (support=0.0937, confidence=0.32, lift=1.12)
+{'R'} => {'N'} (support=0.0934, confidence=0.32, lift=1.11)
+{'N'} => {'R'} (support=0.0934, confidence=0.32, lift=1.11)
+{'S'} => {'N'} (support=0.0937, confidence=0.32, lift=1.12)
+{'N'} => {'S'} (support=0.0937, confidence=0.32, lift=1.12)
+{'T'} => {'N'} (support=0.0939, confidence=0.32, lift=1.12)
+{'N'} => {'T'} (support=0.0939, confidence=0.32, lift=1.12)
+{'U'} => {'N'} (support=0.0935, confidence=0.32, lift=1.11)
+{'N'} => {'U'} (support=0.0935, confidence=0.32, lift=1.11)
+{'V'} => {'N'} (support=0.0941, confidence=0.32, lift=1.12)
+{'N'} => {'V'} (support=0.0941, confidence=0.32, lift=1.12)
+{'W'} => {'N'} (support=0.0926, confidence=0.32, lift=1.11)
+{'N'} => {'W'} (support=0.0926, confidence=0.32, lift=1.11)
+{'X'} => {'N'} (support=0.0939, confidence=0.33, lift=1.13)
+{'N'} => {'X'} (support=0.0939, confidence=0.32, lift=1.13)
+{'Y'} => {'N'} (support=0.0942, confidence=0.33, lift=1.13)
+{'N'} => {'Y'} (support=0.0942, confidence=0.33, lift=1.13)
+{'Z'} => {'N'} (support=0.0931, confidence=0.32, lift=1.12)
+{'N'} => {'Z'} (support=0.0931, confidence=0.32, lift=1.12)
+{'P'} => {'O'} (support=0.0941, confidence=0.33, lift=1.12)
+{'O'} => {'P'} (support=0.0941, confidence=0.32, lift=1.12)
+{'Q'} => {'O'} (support=0.0943, confidence=0.33, lift=1.12)
+{'O'} => {'Q'} (support=0.0943, confidence=0.32, lift=1.12)
+{'R'} => {'O'} (support=0.0942, confidence=0.33, lift=1.12)
+{'O'} => {'R'} (support=0.0942, confidence=0.32, lift=1.12)
+{'S'} => {'O'} (support=0.0939, confidence=0.33, lift=1.12)
+{'O'} => {'S'} (support=0.0939, confidence=0.32, lift=1.12)
+{'T'} => {'O'} (support=0.0937, confidence=0.32, lift=1.12)
+{'O'} => {'T'} (support=0.0937, confidence=0.32, lift=1.12)
+{'U'} => {'O'} (support=0.0947, confidence=0.33, lift=1.13)
+{'O'} => {'U'} (support=0.0947, confidence=0.33, lift=1.13)
+{'V'} => {'O'} (support=0.0945, confidence=0.33, lift=1.12)
+{'O'} => {'V'} (support=0.0945, confidence=0.33, lift=1.12)
+{'W'} => {'O'} (support=0.0949, confidence=0.33, lift=1.14)
+{'O'} => {'W'} (support=0.0949, confidence=0.33, lift=1.14)
+{'X'} => {'O'} (support=0.0935, confidence=0.33, lift=1.12)
+{'O'} => {'X'} (support=0.0935, confidence=0.32, lift=1.12)
+{'Y'} => {'O'} (support=0.0945, confidence=0.33, lift=1.13)
+{'O'} => {'Y'} (support=0.0945, confidence=0.33, lift=1.13)
+{'Z'} => {'O'} (support=0.0940, confidence=0.33, lift=1.12)
+{'O'} => {'Z'} (support=0.0940, confidence=0.32, lift=1.12)
+{'Q'} => {'P'} (support=0.0939, confidence=0.32, lift=1.12)
+{'P'} => {'Q'} (support=0.0939, confidence=0.33, lift=1.12)
+{'P'} => {'R'} (support=0.0944, confidence=0.33, lift=1.13)
+{'R'} => {'P'} (support=0.0944, confidence=0.33, lift=1.13)
+{'P'} => {'S'} (support=0.0939, confidence=0.33, lift=1.13)
+{'S'} => {'P'} (support=0.0939, confidence=0.33, lift=1.13)
+{'P'} => {'T'} (support=0.0938, confidence=0.32, lift=1.12)
+{'T'} => {'P'} (support=0.0938, confidence=0.32, lift=1.12)
+{'P'} => {'U'} (support=0.0934, confidence=0.32, lift=1.12)
+{'U'} => {'P'} (support=0.0934, confidence=0.32, lift=1.12)
+{'P'} => {'V'} (support=0.0949, confidence=0.33, lift=1.13)
+{'V'} => {'P'} (support=0.0949, confidence=0.33, lift=1.13)
+{'P'} => {'W'} (support=0.0930, confidence=0.32, lift=1.12)
+{'W'} => {'P'} (support=0.0930, confidence=0.32, lift=1.12)
+{'X'} => {'P'} (support=0.0929, confidence=0.32, lift=1.12)
+{'P'} => {'X'} (support=0.0929, confidence=0.32, lift=1.12)
+{'P'} => {'Y'} (support=0.0933, confidence=0.32, lift=1.12)
+{'Y'} => {'P'} (support=0.0933, confidence=0.32, lift=1.12)
+{'P'} => {'Z'} (support=0.0930, confidence=0.32, lift=1.12)
+{'Z'} => {'P'} (support=0.0930, confidence=0.32, lift=1.12)
+{'Q'} => {'R'} (support=0.0935, confidence=0.32, lift=1.11)
+{'R'} => {'Q'} (support=0.0935, confidence=0.32, lift=1.11)
+{'Q'} => {'S'} (support=0.0937, confidence=0.32, lift=1.12)
+{'S'} => {'Q'} (support=0.0937, confidence=0.32, lift=1.12)
+{'Q'} => {'T'} (support=0.0941, confidence=0.32, lift=1.12)
+{'T'} => {'Q'} (support=0.0941, confidence=0.33, lift=1.12)
+{'Q'} => {'U'} (support=0.0948, confidence=0.33, lift=1.13)
+{'U'} => {'Q'} (support=0.0948, confidence=0.33, lift=1.13)
+{'Q'} => {'V'} (support=0.0941, confidence=0.32, lift=1.12)
+{'V'} => {'Q'} (support=0.0941, confidence=0.32, lift=1.12)
+{'Q'} => {'W'} (support=0.0938, confidence=0.32, lift=1.12)
+{'W'} => {'Q'} (support=0.0938, confidence=0.33, lift=1.12)
+{'Q'} => {'X'} (support=0.0939, confidence=0.32, lift=1.13)
+{'X'} => {'Q'} (support=0.0939, confidence=0.33, lift=1.13)
+{'Q'} => {'Y'} (support=0.0940, confidence=0.32, lift=1.12)
+{'Y'} => {'Q'} (support=0.0940, confidence=0.33, lift=1.12)
+{'Q'} => {'Z'} (support=0.0947, confidence=0.33, lift=1.13)
+{'Z'} => {'Q'} (support=0.0947, confidence=0.33, lift=1.13)
+{'S'} => {'R'} (support=0.0942, confidence=0.33, lift=1.13)
+{'R'} => {'S'} (support=0.0942, confidence=0.33, lift=1.13)
+{'R'} => {'T'} (support=0.0945, confidence=0.33, lift=1.13)
+{'T'} => {'R'} (support=0.0945, confidence=0.33, lift=1.13)
+{'U'} => {'R'} (support=0.0940, confidence=0.32, lift=1.12)
+{'R'} => {'U'} (support=0.0940, confidence=0.32, lift=1.12)
+{'V'} => {'R'} (support=0.0944, confidence=0.33, lift=1.12)
+{'R'} => {'V'} (support=0.0944, confidence=0.33, lift=1.12)
+{'R'} => {'W'} (support=0.0941, confidence=0.32, lift=1.13)
+{'W'} => {'R'} (support=0.0941, confidence=0.33, lift=1.13)
+{'X'} => {'R'} (support=0.0942, confidence=0.33, lift=1.13)
+{'R'} => {'X'} (support=0.0942, confidence=0.32, lift=1.13)
+{'Y'} => {'R'} (support=0.0942, confidence=0.33, lift=1.13)
+{'R'} => {'Y'} (support=0.0942, confidence=0.33, lift=1.13)
+{'Z'} => {'R'} (support=0.0927, confidence=0.32, lift=1.11)
+{'R'} => {'Z'} (support=0.0927, confidence=0.32, lift=1.11)
+{'S'} => {'T'} (support=0.0930, confidence=0.32, lift=1.11)
+{'T'} => {'S'} (support=0.0930, confidence=0.32, lift=1.11)
+{'U'} => {'S'} (support=0.0929, confidence=0.32, lift=1.11)
+{'S'} => {'U'} (support=0.0929, confidence=0.32, lift=1.11)
+{'V'} => {'S'} (support=0.0935, confidence=0.32, lift=1.12)
+{'S'} => {'V'} (support=0.0935, confidence=0.32, lift=1.12)
+{'S'} => {'W'} (support=0.0932, confidence=0.32, lift=1.12)
+{'W'} => {'S'} (support=0.0932, confidence=0.32, lift=1.12)
+{'X'} => {'S'} (support=0.0935, confidence=0.33, lift=1.13)
+{'S'} => {'X'} (support=0.0935, confidence=0.32, lift=1.13)
+{'S'} => {'Y'} (support=0.0936, confidence=0.32, lift=1.12)
+{'Y'} => {'S'} (support=0.0936, confidence=0.32, lift=1.12)
+{'Z'} => {'S'} (support=0.0925, confidence=0.32, lift=1.11)
+{'S'} => {'Z'} (support=0.0925, confidence=0.32, lift=1.11)
+{'U'} => {'T'} (support=0.0928, confidence=0.32, lift=1.11)
+{'T'} => {'U'} (support=0.0928, confidence=0.32, lift=1.11)
+{'V'} => {'T'} (support=0.0943, confidence=0.33, lift=1.12)
+{'T'} => {'V'} (support=0.0943, confidence=0.33, lift=1.12)
+{'T'} => {'W'} (support=0.0929, confidence=0.32, lift=1.12)
+{'W'} => {'T'} (support=0.0929, confidence=0.32, lift=1.12)
+{'X'} => {'T'} (support=0.0942, confidence=0.33, lift=1.13)
+{'T'} => {'X'} (support=0.0942, confidence=0.33, lift=1.13)
+{'Y'} => {'T'} (support=0.0942, confidence=0.33, lift=1.13)
+{'T'} => {'Y'} (support=0.0942, confidence=0.33, lift=1.13)
+{'Z'} => {'T'} (support=0.0937, confidence=0.33, lift=1.12)
+{'T'} => {'Z'} (support=0.0937, confidence=0.32, lift=1.12)
+{'U'} => {'V'} (support=0.0936, confidence=0.32, lift=1.12)
+{'V'} => {'U'} (support=0.0936, confidence=0.32, lift=1.12)
+{'U'} => {'W'} (support=0.0936, confidence=0.32, lift=1.12)
+{'W'} => {'U'} (support=0.0936, confidence=0.33, lift=1.12)
+{'X'} => {'U'} (support=0.0936, confidence=0.33, lift=1.12)
+{'U'} => {'X'} (support=0.0936, confidence=0.32, lift=1.12)
+{'U'} => {'Y'} (support=0.0933, confidence=0.32, lift=1.12)
+{'Y'} => {'U'} (support=0.0933, confidence=0.32, lift=1.12)
+{'Z'} => {'U'} (support=0.0937, confidence=0.33, lift=1.12)
+{'U'} => {'Z'} (support=0.0937, confidence=0.32, lift=1.12)
+{'V'} => {'W'} (support=0.0939, confidence=0.32, lift=1.12)
+{'W'} => {'V'} (support=0.0939, confidence=0.33, lift=1.12)
+{'X'} => {'V'} (support=0.0931, confidence=0.32, lift=1.12)
+{'V'} => {'X'} (support=0.0931, confidence=0.32, lift=1.12)
+{'V'} => {'Y'} (support=0.0934, confidence=0.32, lift=1.12)
+{'Y'} => {'V'} (support=0.0934, confidence=0.32, lift=1.12)
+{'Z'} => {'V'} (support=0.0943, confidence=0.33, lift=1.13)
+{'V'} => {'Z'} (support=0.0943, confidence=0.33, lift=1.13)
+{'X'} => {'W'} (support=0.0930, confidence=0.32, lift=1.12)
+{'W'} => {'X'} (support=0.0930, confidence=0.32, lift=1.12)
+{'Y'} => {'W'} (support=0.0936, confidence=0.32, lift=1.13)
+{'W'} => {'Y'} (support=0.0936, confidence=0.33, lift=1.13)
+{'Z'} => {'W'} (support=0.0927, confidence=0.32, lift=1.12)
+{'W'} => {'Z'} (support=0.0927, confidence=0.32, lift=1.12)
+{'X'} => {'Y'} (support=0.0944, confidence=0.33, lift=1.14)
+{'Y'} => {'X'} (support=0.0944, confidence=0.33, lift=1.14)
+{'X'} => {'Z'} (support=0.0935, confidence=0.32, lift=1.13)
+{'Z'} => {'X'} (support=0.0935, confidence=0.32, lift=1.13)
+{'Z'} => {'Y'} (support=0.0933, confidence=0.32, lift=1.12)
+{'Y'} => {'Z'} (support=0.0933, confidence=0.32, lift=1.12)
