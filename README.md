@@ -1,44 +1,36 @@
-\# Association Rule Mining: A Support-Sensitive Analysis Across Transactional Datasets
+# Association Rule Mining Project
 
+This project explores the impact of varying minimum support thresholds on frequent itemset generation and association rule discovery using the Apriori algorithm.
 
+## 📊 Key Features
+- Analysis across datasets with 100k to 500k transactions
+- Support values ranging from 5000 to 25000
+- Frequent itemsets and rule generation with confidence ≥ 25%
+- Heatmaps and bar plots for comparison
+- Output includes support, confidence, and lift values
 
-This repository accompanies a research project focused on \*\*scalable Association Rule Mining (ARM)\*\* using the \*\*Apriori algorithm\*\* across large-scale transactional datasets (100k to 500k records). The project investigates how varying \*\*minimum support thresholds\*\* influence the volume, structure, and quality of frequent itemsets and association rules.
+## 🛠️ Technologies Used
+- Python
+- Pandas
+- mlxtend
+- Matplotlib
+- Seaborn
 
+## 📁 Output Format
+Each experiment generates:
+- `frequent_itemsets_<dataset>_<support>.txt`
+- `association_rules_<dataset>_<support>.txt`
+- Graphs: Heatmaps and bar charts in PNG format
 
+## 📂 Datasets
+Simulated transactional data with 26 items across varying volumes:
+- 100k, 200k, 300k, 400k, 500k records
 
----
+## 📈 Visualization Samples
+- Max itemset length by support
+- Count of frequent itemsets
+- Number of rules
+- Average confidence
 
-
-
-\## 🔍 Overview
-
-
-
-\- \*\*Objective\*\*: To analyze the behavior of ARM under different support levels and dataset sizes.
-
-\- \*\*Approach\*\*: Applied Apriori on 5 synthetic transaction datasets, with support values ranging from 5,000 to 25,000.
-
-\- \*\*Metrics Evaluated\*\*: 
-
-&nbsp; - Number of frequent itemsets
-
-&nbsp; - Number of association rules
-
-&nbsp; - Maximum itemset length
-
-&nbsp; - Average confidence
-
-&nbsp; - Lift values (rule strength)
-
-
-
----
-
-
-
-\## 📁 Repository Structure
-
-
-
-
-
+## 📄 License
+This repository is part of a research paper. For reuse or citation, please refer to the accompanying publication.
