@@ -3,6 +3,10 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Ignore these folders completely
+CMC/
+Paper/
+
 # C extensions
 *.so
 
